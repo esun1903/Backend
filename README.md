@@ -1,2 +1,2 @@
 # Backend
-모같코_ 백엔드
+Spring 공부
